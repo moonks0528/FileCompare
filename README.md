@@ -15,10 +15,11 @@
 
 ## 실행 화면 (과제1)
 - 코드의 실행 스크린샷과 구현 내용 설명
-![과제1 실행화면](img/ScreenShot1.png)
+![과제1 실행화면](img/ScreenShot1-1.png)
 	- 초기화면
 
-![과제1 실행화면](img/ScreenShot2.png)
+- 코드의 실행 스크린샷과 구현 내용 설명
+![과제1 실행화면](img/ScreenShot2-1.png)
 	- 폴더 선택기능 구현
 
 
